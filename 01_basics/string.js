@@ -21,7 +21,7 @@ const anotherString=gameName.slice(-5,-3)
 console.log(anotherString)
 const newName="          Prince       "
 console.log(newName)
-console.log(newName.trim())
+console.log(newName.trim())   // removes extra spaces
 console.log(newName.replace('e','i'))
 
 // To convert string to array
